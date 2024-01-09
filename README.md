@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/gugulethu-khumalo-bb77152a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gugulethu-khumalo-bb77152a6/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gugukhumalodatascience/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gugukhumalodatascience/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/gugucom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/gugucom" height="30" width="40" /></a>
 </p>
 
